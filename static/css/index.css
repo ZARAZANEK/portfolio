@@ -518,7 +518,7 @@
     .container-main-text1 .div-text1 {
         color: azure;
         font-size: 60px;
-        width: 560px;
+        width: 500px;
     }
     .container-main-text1 .div-text1 b a {
         color: #393FEE;
@@ -528,7 +528,7 @@
     .container-main-text1 .div-text2 {
         color: #E8E8E8;
         font-size: 21px;
-        width: 520px;
+        width: 500px;
         margin-top: 15px;
         line-height: 1.4; /* Встановлює відстань між рядками */
     }
@@ -538,7 +538,7 @@
         align-items: center;
         color: #E8E8E8;
         font-size: 18px;
-        width: 460px;
+        width: 440px;
         margin-top: 5px;
     }
     
@@ -669,7 +669,7 @@
             width: 23%;
             height: auto; /* Динамічна висота */
             margin-top: -70%;
-            margin-left: 80%;
+            margin-left: 60%;
             z-index: 1;
             left: 60%;
         }
@@ -722,7 +722,7 @@
         z-index: 10;
     }
     .container-main-text2-small-bg {
-        width: 101.9%;
+        width: 100%;
         height: 200px;
         background-color: #393FEE;
         z-index: -1;
@@ -830,7 +830,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 100%;
+        width: 80%;
         margin-top: 150px; /* Збільшити відступ, щоб не перекривало */
         z-index: 1; /* Піднімає цей контейнер вище */
     }
