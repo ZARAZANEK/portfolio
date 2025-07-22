@@ -94,7 +94,7 @@ header a b {
         text-align: center; /* Центруємо елементи */
         padding: 10px; /* Додаємо внутрішні відступи */
         z-index: 900;
-        width: 95.5%;
+        width: 90.5%;
     }
 
     header label {
@@ -109,7 +109,7 @@ header a b {
     button {
         width: 32px;
         height: 32px;
-        margin-left: 90%;
+        margin-left: 80%;
         margin-top: -7%;
         border-radius: 4px;
         display: block; /* Завжди залишати видимою */
