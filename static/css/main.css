@@ -94,7 +94,7 @@ header a b {
         text-align: center; /* Центруємо елементи */
         padding: 10px; /* Додаємо внутрішні відступи */
         z-index: 900;
-        width: 90.5%;
+        width: 85%;
     }
 
     header label {
