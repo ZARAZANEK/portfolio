@@ -666,10 +666,10 @@
             justify-content: center; /* Вирівнювання по вертикалі */
             align-items: center; /* Вирівнювання по горизонталі */
             position: relative; /* Відносне позиціонування контейнера */
-            width: 23%;
+            width: 20%;
             height: auto; /* Динамічна висота */
             margin-top: -70%;
-            margin-left: 60%;
+            margin-left: 20%;
             z-index: 1;
             left: 60%;
         }
@@ -722,7 +722,7 @@
         z-index: 10;
     }
     .container-main-text2-small-bg {
-        width: 100%;
+        width: 90%;
         height: 200px;
         background-color: #393FEE;
         z-index: -1;
@@ -1175,7 +1175,7 @@
         width: 23%;
         height: auto; /* Динамічна висота */
         margin-top: 5%;
-        margin-left: -28%;
+        margin-left: -35%;
         z-index: 1;
         left: 60%;
     }
@@ -1228,12 +1228,12 @@
         justify-content: center;
         width: 100%;
         margin-top: 330%;
-        margin-left: -100%;
+        margin-left: -110%;
         z-index: 10;
         height: auto;
     }
     .container-main-text2-small-bg {
-        width: 428px;
+        width: 408px;
         height: 410px;
         background-color: #393FEE;
         z-index: -1;
