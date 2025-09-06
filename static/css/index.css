@@ -1344,7 +1344,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 85%;
+        width: 75%;
         margin-top: 60%; /* Збільшити відступ, щоб не перекривало */
         z-index: 1; /* Піднімає цей контейнер вище */
     }
@@ -1464,10 +1464,10 @@
         display: grid;
         grid-template-columns: 5% 80% 10% 10%;
         align-items: center;
-        width: 200px;
+        width: 100px;
         margin-top: -70px; /* Збільшити відступ, щоб не перекривало */
         z-index: 1; /* Піднімає цей контейнер вище */
-        margin-left: 20%;
+        margin-left: 10%;
         height: 50px;
     }
     
@@ -1523,4 +1523,3 @@
         margin-top: 30%;
     }
 }
-
